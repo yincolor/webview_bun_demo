@@ -11,3 +11,9 @@ bun install
 ```
 ./build.sh
 ```
+
+依赖项目：
+
+https://bun.sh/
+
+https://github.com/tr1ckydev/webview-bun
