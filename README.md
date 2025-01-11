@@ -1,8 +1,8 @@
 webview_bun_demo 
 
-基于webview-bun的窗口demo 
+基于 Bun + webview-bun 的窗口demo 
 
-安装依赖包：
+首先需要先安装依赖包：
 ```
 bun install
 ```
